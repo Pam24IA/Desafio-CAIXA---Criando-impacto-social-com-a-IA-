@@ -6,8 +6,7 @@ O nome do podcast é "Golpe Não Tem Vez: Proteja o que é seu”
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido no Boot Camp com a [DIO](https://dio.me)
 
-##Podcast postado no [linkedin]
-(https://www.linkedin.com/posts/pamela-serra-226839346_caixa-diome-ia-activity-7285481986310234112-DJMA?utm_source=share&utm_medium=member_desktop)
+##Podcast postado no [linkedin](https://www.linkedin.com/posts/pamela-serra-226839346_caixa-diome-ia-activity-7285481986310234112-DJMA?utm_source=share&utm_medium=member_desktop)
 
 ## 💻 Tecnologias utilizadas no projeto
 
